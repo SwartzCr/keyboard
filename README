@@ -1,0 +1,5 @@
+This is a repository of all of the code neede to make my keyboard.
+Along with a number of openscad programs there are raw dxf files that were used
+    to cut the stabilizing plate. The code for the micro is all written by jesse vincent, and available here: https://github.com/obra/KeyboardioFirmware
+    and I've added my qwerty layout file to this repo, so that if my computer loses it
+    I can still reprogram my microcontroller.
